@@ -1,4 +1,20 @@
 img {
     width: 500px;
 }
+p {
+    font-size: 20px;
+    font-weight: 200px ;
+}
+a:hover {
+    font-size: 25px;
+    font-weight: 200px ;
+    cursor: zoom-in;
+    color: hotpink;
+}
+.button:hover {
+    font-size: 20px;
+    padding: 15px 32px;
+    cursor: zoom-in;
+    color: rgb(45, 72, 223);
+}
 
