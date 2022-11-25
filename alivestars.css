@@ -1,7 +1,36 @@
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
 }
-a {
+a:link {
+    color: red;
+}
+a:hover {
     font-size: large;
     font-weight: 200;
+    cursor: zoom-in;
+    color: hotpink;
+}  
+a:visited {
+    color: green;
+
+}
+   
+h1 {
+    font-size: xx-large;
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 100px;
+    
+}
+footer{
+    color:#595959;
+    font-size: 14px;
+    text-align:center;
+    margin-top: 10px;
+
+}
+anchor
+{
+    
 }
